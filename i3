@@ -1,0 +1,1 @@
+/home/gagareg/.config/i3/
